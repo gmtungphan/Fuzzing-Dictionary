@@ -1,0 +1,19 @@
+<html>
+<script>
+var http = new XMLHttpRequest();
+var url = 'Chen URL'
+var params = ' POST Data'
+http.open('POST',url,true);
+
+http.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+http.onreadystatechange = function()
+
+{
+	if(http.readyState==4 && http.status == 200){
+		alert(http.responseText);
+	}
+}
+http.send(params);
+</script>
+</html>
+
