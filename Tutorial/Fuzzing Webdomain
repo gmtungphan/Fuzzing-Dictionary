@@ -1,0 +1,17 @@
+Sau đây là kinh nghiệm Fuzz cũng như Bruteforce Subdomain cho 1 Target nhất định . 
+Nhìn chung 1 số Scope trên Bugbounty hoặc hoặc Target bạn cần try hard đều có 1 số công cụ hỗ trợ . Sau đây mình xin giới thiệu 1 số công cụ 
+hỗ trợ việc tìm kiếm Subdomain 1 cách dễ dàng .
+
+Target : Abc.com  
+
+Sử dụng Google Dork :  Site : *.Abc.com -www
+Công cụ sử dụng :  
+Amass  :  https://github.com/OWASP/Amass
+Findomain : https://github.com/Edu4rdSHL/findomain
+Sublist3r : https://github.com/aboul3la/Sublist3r
+1 số Website ngoài lề :  
++ DNS Dumpster : https://dnsdumpster.com/
++ Subdomain Finder : https://findsubdomains.com/
+
+Hi vọng 1 số chia sẻ về kinh nghiệm này sẽ giúp các bạn có thêm nhiều sự lựa chọn trong việc tìm kiếm Subdomain cho 1 số Target nhất định của mình.
+Happy Hacking !
